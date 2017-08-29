@@ -1,6 +1,6 @@
 # Mérés laboratórium 2 nagyházi
 
-Ezt a nagyházit a Mérés laboratórium 2 tantárgyhoz készítettük Tarnay Kálmánnal a BME-s tanulmányaink során a 2011/2012/2. félévben. A teszteléshez HAPSIM-ot használtunk, a bemutatás során FPGA-n mutattuk be.
+Ezt a nagyházit a Mérés laboratórium 2 tantárgyhoz készítettük [Tarnay Kálmánnal](https://github.com/kalmi) a BME-s tanulmányaink során a 2011/2012/2. félévben. A teszteléshez HAPSIM-ot használtunk, a bemutatás során FPGA-n mutattuk be.
 
 ## Feladat
 
